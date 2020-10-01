@@ -1,0 +1,2 @@
+INSERT INTO collectq_db.quetions (title, content) VALUES 
+("gitむずかちい", "gitってなんであんなに難しいんですか?\n簡単にしてほしい"), ("docker is god", "dockerって神ですね^^\n簡単に初期化できるサイト知ってますか?"), ("好きなアニメを教えてください", "好きなアニメを教えてください。\n私は宇宙パトロールです");

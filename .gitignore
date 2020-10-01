@@ -1,0 +1,9 @@
+.env
+
+.DS_Store
+
+./docker/db/db_data
+
+docker-compose.ecs.yml
+
+ecs-params.yml
